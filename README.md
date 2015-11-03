@@ -16,11 +16,11 @@ file.sh apk_full_path patch_dir
 Se questi sono test.apk e patch_dir:
 
 test.apk/  
-	file.txt  
-	file2.jpg  
+    file.txt  
+    file2.jpg  
   
 patch_dir/  
-	file.txt  
+    file.txt  
   
 Usando questo script, *test.apk/file.txt* verrà sostituito con *patch_dir/file.txt*
 
